@@ -1,0 +1,22 @@
+{
+  "name": "email_string_tools",
+  "version": "1.0.0",
+  "description": "this is a small project i have been working on for people working with emails its only two function right now wich are maskEmail and validateEmail",
+  "main": "emailTools.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "email",
+    "mask",
+    "masking",
+    "valitate"
+  ],
+  "author": "Aidan Bosse",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2"
+  }
+}
