@@ -1,5 +1,5 @@
 # Email String Tools
-this is a small priject i have been working on for people working with emails
+this is a small project i have been working on for people working with emails
 its only two functions right now wich are maskEmail and validateEmail 
 
 both functions are fairly simple to instal and use let me start with the first on
@@ -32,7 +32,7 @@ note: the entire text needs to be the email wich means it wont identify spaces o
 
 ## Instalation
 
-i dont know what your supposed to do so figure it out :)
+just type npm i email_string_tools in the terminal
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
