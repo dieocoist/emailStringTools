@@ -19,7 +19,7 @@ there doesnt even need an email for the function to work
 console.log(emailTools.maskEmails('There is no email in this text'));
 //returns There is no email in this text
 ```
-
+gg
 ### Validate Email
 
 this function will return a boolean of true when given an email
